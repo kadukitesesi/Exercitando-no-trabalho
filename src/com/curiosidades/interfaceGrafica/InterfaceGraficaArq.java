@@ -2,11 +2,8 @@ package com.curiosidades.interfaceGrafica;
 
 import javax.swing.*;
 import java.io.DataOutputStream;
-import java.io.File;
 import java.io.FileOutputStream;
-import java.util.Scanner;
 
-import static java.lang.Integer.parseInt;
 
 public class InterfaceGraficaArq {
     public static void main(String[] args) {
