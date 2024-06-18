@@ -1,9 +1,8 @@
+package com.curiosidades.logica;
 
 import java.util.Arrays;
 import java.util.Scanner;
 import java.util.stream.IntStream;
-
-import static java.lang.Integer.reverse;
 
 public class Javanes3 {
     public static void main(String[] args) {

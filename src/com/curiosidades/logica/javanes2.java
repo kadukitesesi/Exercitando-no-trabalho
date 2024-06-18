@@ -1,3 +1,5 @@
+package com.curiosidades.logica;
+
 import java.util.stream.IntStream;
 
 public class javanes2 {

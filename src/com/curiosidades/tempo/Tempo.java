@@ -1,3 +1,4 @@
+package com.curiosidades.tempo;
 
 import java.time.LocalTime;
 

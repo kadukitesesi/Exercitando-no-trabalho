@@ -1,3 +1,5 @@
+package com.curiosidades.interfaceGrafica;
+
 import javax.swing.*;
 
 public class InterfaceGrafica {
